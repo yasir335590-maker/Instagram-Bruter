@@ -8,7 +8,7 @@
 Instagram Bruter is a password brute-force tool designed to test the security of Instagram accounts. It automates login attempts using a list of passwords and proxies.
 
 ## Getting Started  
-Fork this repository and dive right in! 🔥  
+**Star** this repository to show your support, hit **Fork**, and dive right in!
 
 
 ## Author
